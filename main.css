@@ -42,3 +42,9 @@ body {
     border-radius: 0.8rem;
 }
 
+.actions{
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+}
